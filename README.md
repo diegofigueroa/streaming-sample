@@ -5,9 +5,9 @@ A basic sample application for EventSource interface for server-sent events.
 Built using `faye-websockets` and `redis pub/sub`.
 
 ```shell
-    cd streaming-sample
-    bundle install
-    foreman start
+cd streaming-sample
+bundle install
+foreman start
 ```
 
 ```shell
